@@ -1,11 +1,12 @@
 ## Front-End Bookmarks
-***
 
-Index
+####Table of Contents
+
+---
 
 * [Article](#article)
 
 
-### Article
+#### Article
 - __Slides__
   + [perf.rocks](http://perf.rocks/)

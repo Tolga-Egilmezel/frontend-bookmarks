@@ -10,8 +10,10 @@
 + [JavaScript](#javascript)
 
 #### Article
+
 - __Reading__
   + [8 reasons 80s flair will rule design in 2017](http://www.webdesignerdepot.com/2017/01/8-reasons-80s-flair-will-rule-design-in-2017/)
+
 - __Slides__
   + [perf.rocks](http://perf.rocks/)
 

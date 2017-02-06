@@ -17,6 +17,8 @@
 - __Scss__
   - __Tricks__
     + [CSS Only Slider](https://blog.significa.pt/css-only-slider-71727effff0b#.3fmdqg71g)
+  - __Properties__
+    + [CSS Properties & Values]https://css-tricks.com/lets-look-50-interesting-css-properties-values/
     
 - __Methodology__
   - __BEM__

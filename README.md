@@ -8,6 +8,7 @@
 + [CSS](#css)
 + [Service Workers](#serviceworkers)
 + [JavaScript](#javascript)
++ [Fonts](#fonts)
 
 #### Article
 
@@ -23,7 +24,7 @@
   - __Tricks__
     + [CSS Only Slider](https://blog.significa.pt/css-only-slider-71727effff0b#.3fmdqg71g)
   - __Properties__
-    + [CSS Properties & Values]https://css-tricks.com/lets-look-50-interesting-css-properties-values/
+    + [CSS Properties & Values](https://css-tricks.com/lets-look-50-interesting-css-properties-values/)
     
 - __Methodology__
   - __BEM__
@@ -43,3 +44,8 @@
 
 - __Promise__
   + [The Promise of a Burger Party](http://kosamari.com/notes/the-promise-of-a-burger-party)
+
+#### Fonts
+
+- __Tools__
+  + [Font style matcher](https://meowni.ca/font-style-matcher/)

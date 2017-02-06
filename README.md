@@ -19,6 +19,6 @@
     
 - __Methodology__
   - __BEM__
-    + [BEM 101](https://css-tricks.com/bem-101/)
+    + [BEM 101](https://css-tricks.com/bem-101/)
     + [BEM with Sass](http://alwaystwisted.com/articles/2014-02-27-even-easier-bem-ing-with-sass-33)
     

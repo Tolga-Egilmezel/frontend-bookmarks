@@ -1,6 +1,6 @@
 ## Front-End Bookmarks :sunglasses:
 
-Get bored to reorganize our bookmarks in browser :punch: Just moving all them to github. So far look like best decision ever :laughing: @Tolga-Egilmezel @filiz137
+We get bored of reorganize our bookmarks in browser :punch: And moving all of them to github. So far looks like best decision ever :laughing: @Tolga-Egilmezel & @filiz137
 
 ####Table of Contents
 
@@ -11,7 +11,7 @@ Get bored to reorganize our bookmarks in browser :punch: Just moving all them to
 + [Service Workers](#serviceworkers)
 + [JavaScript](#javascript)
 + [Fonts](#fonts)
-4 [to Follow](#tofollow)
++ [to Follow](#tofollow)
 
 #### Article
 

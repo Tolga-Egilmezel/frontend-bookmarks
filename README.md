@@ -1,5 +1,7 @@
 ## Front-End Bookmarks :sunglasses:
 
+Get bored to reorganize our bookmarks in browser :punch: Just moving all them to github. So far look like best decision ever :laughing: @Tolga-Egilmezel @filiz137
+
 ####Table of Contents
 
 ---

@@ -58,4 +58,4 @@
 
 #### to Follow
 - __Github__
-  + [Monica Dinculescu](http://meowni.ca)(github.com/notwaldorf)
+  + [Monica Dinculescu](http://meowni.ca) (http://github.com/notwaldorf)

@@ -11,6 +11,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 + [Service Workers](#serviceworkers)
 + [JavaScript](#javascript)
 + [Fonts](#fonts)
++ [SVG](#svg)
 + [to Follow](#tofollow)
 
 #### Article
@@ -61,6 +62,11 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
   + [Loading web fonts asynchronously](https://calendar.perfplanet.com/2016/loading-web-fonts-asynchronously/)
   + [Preload Hints For Web Fonts](http://bramstein.com/writing/preload-hints-for-web-fonts.html)
   + [localFont](https://jaicab.com/localFont/)
+  
+#### SVG
+
+- __Tools__
++ [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
 
 #### to Follow
 - __Github__

@@ -66,8 +66,9 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 #### SVG
 
 - __Tools__
-+ [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
+  + [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
 
 #### to Follow
+
 - __Github__
   + [Monica Dinculescu](http://meowni.ca) (http://github.com/notwaldorf)

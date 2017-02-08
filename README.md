@@ -26,6 +26,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 - __Scss__
   - __Tricks__
     + [CSS Only Slider](https://blog.significa.pt/css-only-slider-71727effff0b#.3fmdqg71g)
+    
   - __Properties__
     + [CSS Properties & Values](https://css-tricks.com/lets-look-50-interesting-css-properties-values/)
     
@@ -33,6 +34,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
   - __BEM__
     + [BEM 101](https://css-tricks.com/bem-101/)
     + [BEM with Sass](http://alwaystwisted.com/articles/2014-02-27-even-easier-bem-ing-with-sass-33)
+    
   - __Atomic Design__
     + [CSS Architecture](http://bradfrost.com/blog/post/css-architecture-for-design-systems/)
 

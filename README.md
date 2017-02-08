@@ -1,6 +1,6 @@
 ## Front-End Bookmarks :sunglasses:
 
-We get bored of reorganize our bookmarks in browser :punch: And moving all of them to github. So far looks like best decision ever :laughing: @Tolga-Egilmezel & @filiz137
+We get bored of reorganize our bookmarks in browser :punch: And moving all of them to github. So far looks like best decision ever :laughing: [Tolga Egilmezel](https://github.com/Tolga-Egilmezel/) & [Filiz Altinturk](https://github.com/filiz137/)
 
 ####Table of Contents
 

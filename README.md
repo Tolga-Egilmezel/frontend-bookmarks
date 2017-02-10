@@ -12,6 +12,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 + [JavaScript](#javascript)
 + [Fonts](#fonts)
 + [SVG](#svg)
++ [Flexbox](#flexbox)
 + [to Follow](#tofollow)
 
 #### Article
@@ -67,6 +68,10 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 
 - __Tools__
   + [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
+  
+#### Flexbox
+- __Guide__
+  + [How Flexbox Works - Animated Gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.5ma2qqf5l)
 
 #### to Follow
 

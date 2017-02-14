@@ -85,3 +85,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 
 - __Github__
   + [Monica Dinculescu](http://meowni.ca) (http://github.com/notwaldorf)
+  
+#### IDE& Editor
+- __Tools__
+   + [Snippet Generator](https://snippets.now.sh/)

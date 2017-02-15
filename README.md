@@ -13,6 +13,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 + [Fonts](#fonts)
 + [SVG](#svg)
 + [Flexbox](#flexbox)
++ [HTML](#html)
 + [to Follow](#tofollow)
 
 #### Article
@@ -80,6 +81,10 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 #### Flexbox
 - __Guide__
   + [How Flexbox Works - Animated Gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.5ma2qqf5l)
+
+#### HTML
+- __Reference__
+  + [htmlreference]http://htmlreference.io/
 
 #### to Follow
 

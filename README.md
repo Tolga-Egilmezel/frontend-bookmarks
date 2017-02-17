@@ -20,6 +20,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 
 - __Reading__
   + [8 reasons 80s flair will rule design in 2017](http://www.webdesignerdepot.com/2017/01/8-reasons-80s-flair-will-rule-design-in-2017/)
+  + [Git repository for designers](https://blog.prototypr.io/git-repository-for-designers-abstract-sketch-9138cf6ab9b1#.cehalx4e2)
   
 - __Slides__
   + [perf.rocks](http://perf.rocks/)
@@ -84,7 +85,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 
 #### HTML
 - __Reference__
-  + [htmlreference]http://htmlreference.io/
+  + [htmlreference](http://htmlreference.io/)
 
 #### to Follow
 

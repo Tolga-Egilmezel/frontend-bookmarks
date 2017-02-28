@@ -48,6 +48,9 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 - __Reference__
   + [cssreference](http://cssreference.io/)
   + [codrops](https://tympanus.net/codrops/css_reference/)
+  
+- __Style Guide__
+  + [The Salesforce Lightning Design System](https://lightningdesignsystem.com)
 
 #### Service Workers
 

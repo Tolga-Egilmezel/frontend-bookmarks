@@ -19,6 +19,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 #### Article
 
 - __Reading__
+  + [Progressive Image Loader](https://www.sitepoint.com/how-to-build-your-own-progressive-image-loader/)
   + [8 reasons 80s flair will rule design in 2017](http://www.webdesignerdepot.com/2017/01/8-reasons-80s-flair-will-rule-design-in-2017/)
   + [Git repository for designers](https://blog.prototypr.io/git-repository-for-designers-abstract-sketch-9138cf6ab9b1#.cehalx4e2)
   

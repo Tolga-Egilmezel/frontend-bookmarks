@@ -57,6 +57,9 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 
 - __Article__
   + [Implementing "Save For Offline" with Service Workers](https://una.im/save-offline/#💁)
+  
+- __Tools__
+   + [PWA Generator](http://preview.pwabuilder.com/generator)
 
 #### JavaScript
 

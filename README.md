@@ -80,6 +80,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 
 - __Tools__
   + [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
+  + [SVG Optimise](https://jakearchibald.github.io/svgomg/)
   
 #### IMG
 - __Performance__

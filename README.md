@@ -94,7 +94,10 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 #### IMG
 - __Performance__
     + [Base64 Encoding & Performance](https://csswizardry.com/2017/02/base64-encoding-and-performance/)
-
+    
+#### Colors
+- __Tool__
+    + [Name That Color](http://chir.ag/projects/name-that-color/)
   
 #### Flexbox
 - __Guide__

@@ -11,6 +11,7 @@ We get bored of reorganize our bookmarks in browser :punch: And moving all of th
 + [Service Workers](#serviceworkers)
 + [JavaScript](#javascript)
 + [Fonts](#fonts)
++ [Colors](#colors)
 + [SVG](#svg)
 + [Flexbox](#flexbox)
 + [HTML](#html)

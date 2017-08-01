@@ -101,6 +101,8 @@ We get bored of organize our bookmarks in browser :punch: And we're moving all o
 #### Colors
 - __Tool__
     + [Name That Color](http://chir.ag/projects/name-that-color/)
+- __Article__
+    + [Eight rules about color palettes that everyone should know](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4)
   
 #### Flexbox
 - __Guide__

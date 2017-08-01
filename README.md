@@ -124,6 +124,5 @@ We get bored of organize our bookmarks in browser :punch: And we're moving all o
    + [Snippet Generator](https://snippets.now.sh/)
 
 #### Accessibility
-- __Tools__
-   + [10 Free Web-Based Web Site Accessibility Evaluation Tools](http://usabilitygeek.com/10-free-web-based-web-site-accessibility-evaluation-tools/)
+   + [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
 

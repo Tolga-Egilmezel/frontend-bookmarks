@@ -19,6 +19,7 @@ We get bored of organize our bookmarks in browser :punch: And we're moving all o
 + [to Follow](#tofollow)
 + [IDE & Editor](#ide&editor)
 + [Accessibility](#accessibility)
++ [Performance](#performance)
 + [API](#api)
 
 #### Article
@@ -135,7 +136,11 @@ We get bored of organize our bookmarks in browser :punch: And we're moving all o
    + [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
    + [WebAIM](http://webaim.org/)
    + [WAVE](http://wave.webaim.org/)
-   
+
+#### Performance
+- __Article__
+  + [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572)
+
 #### API
    + [API Docs Generator](https://github.com/lord/slate?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=51b90179f2db4edcaed8b235622041da&uid=212017238&nid=244+289476616)
 
